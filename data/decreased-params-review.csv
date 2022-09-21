@@ -1,0 +1,30 @@
+﻿source_idx,destination_idx,class,observation,cost/m
+812,813,non-conforming,trail,1.1345
+239,240,non-conforming,no path,1.9354
+2323,2324,NULL: not on CanBICs Network,roundabout,2.9376
+7317,7318,non-conforming,hill,2.59325
+1389,1390,NULL: not on CanBICs Network,route error,53.377
+1185,1186,high comfort,roundabout,2.72835
+1193,1194,NULL: not on CanBICs Network,intersection,2.621538
+4808,4809,non-conforming,forest,2.0665
+6229,6230,non-conforming,intersection,2.719
+4842,4843,non-conforming,trail,2.01
+607,608,medium comfort,left turn at intersection,4.06628
+1947,1948,NULL: not on CanBICs Network,arterial,59.612
+8813,8814,non-conforming,unpaved trail: forest,6.75125
+8820,8821,non-conforming,unpaved trail: forest,6.66033
+14182,14183,medium comfort,unpaved trail: beach,2.313
+2780,2781,non-conforming,intersection turn,4.1407
+5237,5238,non-conforming,unpaved trail,2.389
+13508,13509,non-conforming,unpaved trail: grass,2.7925
+9524,9525,NULL: not on CanBICs Network,cul-de-sac near arterial,2.1315
+20805,20806,non-conforming,unpaved trail: forest,0.953666
+11708,11709,NULL: not on CanBICs Network,minor arterial roundabout,1.337
+2318,2319,NULL/high comfort,roundabout,1.232
+653,654,non-conforming,forest trail,0.72425
+1295,1296,non-conforming,paved path,1.53325
+393,394,medium comfort,paved path,0.79
+2414,2415,non-conforming,paved path,0.729
+6499,6500,NULL: medium comfort,arterial around residential block,0.95229
+9405,9406,non-conforming,paved path,0.661
+8,9,medium comfort,bike path,0.658
